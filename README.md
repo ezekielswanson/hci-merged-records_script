@@ -1,6 +1,6 @@
 # HCI Merged Records Script
 
-A Node.js script for processing and merging contact records across Excel worksheets.
+A Node.js script for processing and merging contact records across multiple excel worksheets.
 
 ## Description
 
