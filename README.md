@@ -1,4 +1,4 @@
-# HCI Merged Records Processor
+# HCI Merged Records Script
 
 A Node.js script for processing and merging contact records across Excel worksheets.
 
